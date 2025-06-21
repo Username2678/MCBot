@@ -20,7 +20,7 @@ setInterval(() => {
 function createBot () {
   const bot = mineflayer.createBot({
       username: "Botname",
-      host: "ip.aternos.me",
+      host: "LifestealSMP12345670.aternos.me",
       port: 25565,
       version: false, // Cambiar! Usar 1.16.5 si vas a usar 1.16.5-1.19, recuerda usar via version y via backwards!
   })

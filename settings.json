@@ -7,7 +7,7 @@
 
     "server":{
         "ip": "LifestealSMP12345670.aternos.me",
-        "port": 25565,
+        "port": 60998,
         "version": "1.16.5"
     },
 
